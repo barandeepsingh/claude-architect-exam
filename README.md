@@ -2,6 +2,8 @@
 
 A comprehensive, interactive mock exam preparation platform for the Claude Certified Architect: Foundations certification.
 
+**🎮 [Live Demo: Practice Mode](https://claude-architect-exam-lwtwynyvq-barandeepsinghs-projects.vercel.app/practice)**
+
 ## Features
 
 ✅ **Adaptive Question Selection** - AI-powered system that adjusts difficulty based on your weak domains  

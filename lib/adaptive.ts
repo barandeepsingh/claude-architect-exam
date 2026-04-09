@@ -32,7 +32,7 @@ function getRecentDomainAccuracy(): Record<Domain, number> {
   return result as Record<Domain, number>;
 }
 
-function getBlendedAccuracy(): Record<Domain, number> {
+export function getBlendedAccuracy(): Record<Domain, number> {
   const allTime = getDomainAccuracyMap();
   const recent = getRecentDomainAccuracy();
   const result: Record<string, number> = {};
